@@ -1,7 +1,5 @@
 gunicorn
 bz2file
 Flask
-joblib
-numpy
 pandas
 scikit-learn
